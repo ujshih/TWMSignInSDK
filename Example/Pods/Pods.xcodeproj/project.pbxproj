@@ -37,11 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00C0F51865E93F3314B3F1AE36F00180 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		00C0F51865E93F3314B3F1AE36F00180 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		0E850C5C7E4826BE67C57E8BA9F09348 /* Pods-TWMSignInSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TWMSignInSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		128D8D1E472EA121536EBCBB33202824 /* TWMSignInSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = TWMSignInSDK.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		128D8D1E472EA121536EBCBB33202824 /* TWMSignInSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TWMSignInSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1ED6E1D58EE156B5CF03A0BFBC6D795C /* Pods-TWMSignInSDK_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TWMSignInSDK_Tests-Info.plist"; sourceTree = "<group>"; };
-		24857204B166381D6B6397DBA667F034 /* Pods_TWMSignInSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TWMSignInSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		24857204B166381D6B6397DBA667F034 /* Pods_TWMSignInSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TWMSignInSDK_Example.framework; path = "Pods-TWMSignInSDK_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BA29E01034253EEEB21DCF0CD111C94 /* TWMSignInSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TWMSignInSDK-dummy.m"; sourceTree = "<group>"; };
 		30CEDACDD20024154ADEFF7F8C141B02 /* TWMSignInSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TWMSignInSDK.release.xcconfig; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -55,19 +55,19 @@
 		7B0EB49A91289CACAE98FDB40CC687B5 /* Pods-TWMSignInSDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TWMSignInSDK_Tests-dummy.m"; sourceTree = "<group>"; };
 		7C866B136389D76ED4C5ACC212C49970 /* TWMSignInSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TWMSignInSDK-umbrella.h"; sourceTree = "<group>"; };
 		824E41C60D36893ACA1CFF99A135F4B3 /* Pods-TWMSignInSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TWMSignInSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		84A9EA5F8C72C44AAED52849F0FE8BDB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		84A9EA5F8C72C44AAED52849F0FE8BDB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		865F65D681A546A6926B53032D342FAE /* Pods-TWMSignInSDK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TWMSignInSDK_Example-frameworks.sh"; sourceTree = "<group>"; };
 		8A674D0F5AE712B15233C6F7A168FC02 /* Pods-TWMSignInSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TWMSignInSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
 		91D2C55D1FA6C0B9A3BA5DD4330FE228 /* Pods-TWMSignInSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TWMSignInSDK_Tests.modulemap"; sourceTree = "<group>"; };
 		986A67E1EA2DE55D924E18EABC8090E7 /* Pods-TWMSignInSDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TWMSignInSDK_Example-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F44D47F92650F7B6E6852619E4E0986 /* Pods-TWMSignInSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TWMSignInSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		ABFAC20904F64E9165FADB3928F51A1E /* TWMSignInSDK-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TWMSignInSDK-Info.plist"; sourceTree = "<group>"; };
-		B9C6AF4A56D6B94F14140CAD11D0339A /* Pods_TWMSignInSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TWMSignInSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9C6AF4A56D6B94F14140CAD11D0339A /* Pods_TWMSignInSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TWMSignInSDK_Tests.framework; path = "Pods-TWMSignInSDK_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE6CE5D070394C9199190F952813AFC3 /* testClass.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = testClass.swift; path = TWMSignInSDK/Classes/testClass.swift; sourceTree = "<group>"; };
 		C88C5470C8944A4CB69529B72FB99636 /* TWMSignInSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TWMSignInSDK.debug.xcconfig; sourceTree = "<group>"; };
 		DAB74DCFA6F182D86A07D9A537D4920F /* Pods-TWMSignInSDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TWMSignInSDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		EAAEF06AE3AC83F8F84E8AE1E5E4B47F /* TWMSignInSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TWMSignInSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAAEF06AE3AC83F8F84E8AE1E5E4B47F /* TWMSignInSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TWMSignInSDK.framework; path = TWMSignInSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF1C6B6929974585B54E607D8708CEA7 /* Pods-TWMSignInSDK_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TWMSignInSDK_Example.modulemap"; sourceTree = "<group>"; };
 		F6A3A30CE6FA34FA22A5FCB948843C38 /* Pods-TWMSignInSDK_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TWMSignInSDK_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -590,7 +590,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
