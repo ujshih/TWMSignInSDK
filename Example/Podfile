@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TWMSignInSDK_Example' do
+  pod 'TWMSignInSDK', :path => '../'
+
+  target 'TWMSignInSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
