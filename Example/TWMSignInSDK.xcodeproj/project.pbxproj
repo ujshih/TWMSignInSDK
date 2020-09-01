@@ -28,10 +28,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		072E8D5B429E6A625B8EC5D4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		072E8D5B429E6A625B8EC5D4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		077AD77DE0B2F31741721B9E /* Pods_TWMSignInSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TWMSignInSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		20A56323E62D149F2B63DF46 /* Pods-TWMSignInSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TWMSignInSDK_Example.debug.xcconfig"; path = "Target Support Files/Pods-TWMSignInSDK_Example/Pods-TWMSignInSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		27FCFF384120B1E817FBF095 /* TWMSignInSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TWMSignInSDK.podspec; path = ../TWMSignInSDK.podspec; sourceTree = "<group>"; };
+		27FCFF384120B1E817FBF095 /* TWMSignInSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TWMSignInSDK.podspec; path = ../TWMSignInSDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2AE7C2F844486298EE481127 /* Pods-TWMSignInSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TWMSignInSDK_Tests.debug.xcconfig"; path = "Target Support Files/Pods-TWMSignInSDK_Tests/Pods-TWMSignInSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		485B372F593411644AD7BF40 /* Pods-TWMSignInSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TWMSignInSDK_Example.release.xcconfig"; path = "Target Support Files/Pods-TWMSignInSDK_Example/Pods-TWMSignInSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* TWMSignInSDK_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TWMSignInSDK_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -45,7 +45,7 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		9EC066EF907161AED5F9AEA0 /* Pods-TWMSignInSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TWMSignInSDK_Tests.release.xcconfig"; path = "Target Support Files/Pods-TWMSignInSDK_Tests/Pods-TWMSignInSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		AFED40FC4989F4540BD155B3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		AFED40FC4989F4540BD155B3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		C663AACC4F7B52EAFF40A6B3 /* Pods_TWMSignInSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TWMSignInSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -77,7 +77,6 @@
 				2AE7C2F844486298EE481127 /* Pods-TWMSignInSDK_Tests.debug.xcconfig */,
 				9EC066EF907161AED5F9AEA0 /* Pods-TWMSignInSDK_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
