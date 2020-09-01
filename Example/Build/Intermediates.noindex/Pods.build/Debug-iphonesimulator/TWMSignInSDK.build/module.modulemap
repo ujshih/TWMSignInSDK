@@ -1,0 +1,11 @@
+framework module TWMSignInSDK {
+  umbrella header "TWMSignInSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module TWMSignInSDK.Swift {
+    header "TWMSignInSDK-Swift.h"
+    requires objc
+}

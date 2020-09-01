@@ -7,12 +7,13 @@
 //
 
 import UIKit
-
+import TWMSignInSDK
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        testClass().testFunc()
     }
 
     override func didReceiveMemoryWarning() {

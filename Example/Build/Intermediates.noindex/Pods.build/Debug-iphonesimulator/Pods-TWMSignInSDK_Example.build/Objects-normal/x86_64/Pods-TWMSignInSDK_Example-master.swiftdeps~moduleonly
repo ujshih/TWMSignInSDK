@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "3c1510a65bd9921dece0b3d10a3a03b3"
+build_time: [1598931344, 952119000]
+inputs:
+  "/Users/mybookUJ/TWMSignInSDK/TWMSignInSDK/Classes/testClass.swift": [1598931343, 437258261]

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mybookUJ/TWMSignInSDK2/Example/Build/Products/Debug-iphonesimulator/TWMSignInSDK/TWMSignInSDK.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mybookUJ/TWMSignInSDK2/Example/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/TWMSignInSDK.build/unextended-module.modulemap",
+    }]
+  }]
+}

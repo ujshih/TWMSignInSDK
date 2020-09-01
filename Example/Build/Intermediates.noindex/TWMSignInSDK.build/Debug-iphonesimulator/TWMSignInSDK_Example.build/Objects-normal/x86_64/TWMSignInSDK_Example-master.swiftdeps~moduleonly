@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "01d0533b6e7eafe659a9adfd1263ea0c"
+build_time: [1598941975, 178577000]
+inputs:
+  "/Users/mybookUJ/TWMSignInSDK2/Example/TWMSignInSDK/ViewController.swift": [1598932064, 69796920]
+  "/Users/mybookUJ/TWMSignInSDK2/Example/TWMSignInSDK/AppDelegate.swift": [1598929790, 756129503]

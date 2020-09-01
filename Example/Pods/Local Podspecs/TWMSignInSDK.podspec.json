@@ -1,0 +1,22 @@
+{
+  "name": "TWMSignInSDK",
+  "version": "0.1.0",
+  "summary": "A short description of TWMSignInSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ujshih/TWMSignInSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ujshih": "jimmyshih@taiwanmobile.com"
+  },
+  "source": {
+    "git": "https://github.com/ujshih/TWMSignInSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TWMSignInSDK/Classes/**/*"
+}
